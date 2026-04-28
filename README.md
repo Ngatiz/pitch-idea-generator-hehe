@@ -1,2 +1,2 @@
 # pitch-idea-generator-hehe
-Business proposal generator
+AI-Powered Business proposal generator
